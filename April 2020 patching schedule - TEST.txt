@@ -1,0 +1,37 @@
+1 - Cpaa non prod - 
+2 - ERS non prod, Online bind, Jenkins - 
+6 - eBiz non prod - 
+7 - Ansible - 
+8 - Splunk AO, Satellite, Integris dev - 
+9 - Test, lab, NES, MRTS, Splunk tx - 
+
+13 - CPAA prod, SAN, DTEX - 
+14 - Filenet, Database,AACG, ELK - 
+16 - Integris prod, Ebiz Prod TX - 
+20 - Ebiz Prod AO, Guidewire, AACG - 
+21 - QueryGrid, PCF - 
+22 - ERS Prod TX - 
+23 - Eschat,CLAS, ebiz lab, redis, ssis, zTD-IBM, FileApp - 25
+
+
+1
+2
+6
+7
+8
+9
+13
+14
+16
+20
+21
+22
+23
+
+
+3400 Interstate 30, matly exit - Monday 9 AM 
+Memorial 
+
+GI doc
+Masrour
+214-962-4863
